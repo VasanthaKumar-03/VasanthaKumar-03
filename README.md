@@ -8,6 +8,7 @@
 - **Others:** Data Structures & Algorithms 
 
 🌱 **Currently Learning:** Advanced Data Structures and Algorithms.  
+
 📂 **Projects:**  
 - 🎵 **Music Genre Classification using ML**  
 - 📍 **Geolocation-Based Attendance System**  
